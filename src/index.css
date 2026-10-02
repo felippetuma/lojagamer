@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @import "./css/estilo.css";
+
+@theme {
+    --color-gamer-green: #95ff00;
+}
